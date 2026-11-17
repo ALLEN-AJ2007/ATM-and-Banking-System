@@ -1,4 +1,4 @@
-<img width="1118" height="677" alt="683984788-8e496ad0-bc87-48a1-9ed4-5abd93c25149" src="https://github.com/user-attachments/assets/98a339ab-09af-4199-90b4-1222a10b0082" /># ATM-AND-BANKING-SYSTEM
+ /># ATM-AND-BANKING-SYSTEM
 # Reg No:212225040017
 # Name:ALLEN PRAKASH J
 # Date:17/11/2026
